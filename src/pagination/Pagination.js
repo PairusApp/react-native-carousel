@@ -1,6 +1,7 @@
 import PropTypes from "prop-types";
 import React, { PureComponent } from "react";
-import { I18nManager, Platform, View, ViewPropTypes } from "react-native";
+import { I18nManager, Platform, View } from "react-native";
+import { ViewPropTypes } from 'deprecated-react-native-prop-types';
 import styles from "./Pagination.style";
 import PaginationDot from "./PaginationDot";
 

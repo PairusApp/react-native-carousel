@@ -1,6 +1,6 @@
 {
   "name": "@pairusapp/react-native-carousel",
-  "version": "3.9.1",
+  "version": "3.9.2",
   "description": "Carousel component for React Native with previews, multiple layouts, parallax images, performant handling of huge numbers of items, and RTL support. Compatible with Android & iOS.",
   "main": "src/index.js",
   "types": "src/index.d.ts",
@@ -11,6 +11,7 @@
   "author": "Sal Anvarov <msalanvarov@gmail.com> (github.com/msanvarov)",
   "license": "BSD-3-Clause",
   "dependencies": {
+    "deprecated-react-native-prop-types": "^5.0.0",
     "prop-types": "^15.6.1",
     "react-addons-shallow-compare": "15.6.2"
   },

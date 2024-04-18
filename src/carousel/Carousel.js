@@ -8,9 +8,9 @@ import {
   I18nManager,
   Platform,
   ScrollView,
-  View,
-  ViewPropTypes,
+  View
 } from "react-native";
+import { ViewPropTypes } from 'deprecated-react-native-prop-types';
 import {
   defaultAnimatedStyles,
   defaultScrollInterpolator,

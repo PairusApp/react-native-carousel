@@ -14,16 +14,6 @@
 
 ---
 
----
-
-## ✨ Some great news for you, fellow plugin user!
-
-### 💡 **[Head over there now](https://github.com/meliorence/react-native-carousel/blob/master/doc/VERSION_4.md)** to learn more about all the goodness that's coming your way.
-
----
-
----
-
 ## Table of contents
 
 1. [Showcase](#showcase)
@@ -77,7 +67,7 @@ We're not abandoning the ship, but we need more people to help us keep it alive 
 
 ---
 
-## Usage
+## Setup
 
 ```bash
 $ npm install --save react-native-carousel
